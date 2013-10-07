@@ -1,0 +1,59 @@
+10
+
+dir
+34
+https://subversion.assembla.com/svn/javabootcamp/Grundlagen/src
+https://subversion.assembla.com/svn/javabootcamp
+
+
+
+2013-08-14T17:17:40.884014Z
+34
+hammoud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fb419bd0-dd38-496b-9bbe-2e3e7da0086b
+
+Interview
+dir
+
+Intreview
+dir
+
+
+
+delete
+
+Threads
+dir
+
+algorithems
+dir
+
+binary
+dir
+
+compositePattern
+dir
+
+factoryPattern
+dir
+
+proxyPattern
+dir
+
+singletonPattern
+dir
+

@@ -1,0 +1,22 @@
+{
+  "D:\\workspace\\ÜbenFürInterview\\src": {
+    "location": "D:\\workspace\\ÜbenFürInterview\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\workspace\\ÜbenFürInterview\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "D:\\workspace\\JavaBootCamp\\src": {
+    "location": "D:\\workspace\\JavaBootCamp\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\workspace\\JavaBootCamp\\src\u0027. Skipped."
+  },
+  "D:\\workspace\\Grundlagen\\src": {
+    "location": "D:\\workspace\\Grundlagen\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\workspace\\Grundlagen\\src\u0027. Skipped."
+  }
+}

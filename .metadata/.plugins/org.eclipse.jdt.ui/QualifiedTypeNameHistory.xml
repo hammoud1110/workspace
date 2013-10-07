@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Exercises.Main"/>
+<fullyQualifiedTypeName name="Exercises.Person"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="day02b.Pizza"/>
+<fullyQualifiedTypeName name="day02b.PizzaOrder"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="day03.WrapperClasses"/>
+<fullyQualifiedTypeName name="java.util.BitSet"/>
+<fullyQualifiedTypeName name="Intreview.MyBinaryTree.Node"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="day03b.Person"/>
+<fullyQualifiedTypeName name="day03b.Student"/>
+<fullyQualifiedTypeName name="Interview.Stack.Node"/>
+<fullyQualifiedTypeName name="Interview.Stack"/>
+<fullyQualifiedTypeName name="javax.swing.Popup"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="Interview.Fibonacci"/>
+<fullyQualifiedTypeName name="Interview.Subsets"/>
+<fullyQualifiedTypeName name="day04.BachelorStudent"/>
+<fullyQualifiedTypeName name="day04.DiplomaStudent"/>
+<fullyQualifiedTypeName name="day04task3.BachelorStudent"/>
+<fullyQualifiedTypeName name="day04.StudentPrinter"/>
+<fullyQualifiedTypeName name="day04.MasterStudent"/>
+<fullyQualifiedTypeName name="day04task3.MasterStudent"/>
+<fullyQualifiedTypeName name="day04task4.Student"/>
+<fullyQualifiedTypeName name="day04task4.RandomStudent"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="day04b.NumberTool"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="day04b.Safe.Secret"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="day07.HelloWorld"/>
+</qualifiedTypeNameHistroy>

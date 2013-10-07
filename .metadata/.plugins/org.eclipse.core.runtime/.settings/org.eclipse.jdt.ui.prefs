@@ -1,0 +1,23 @@
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:6\u0000org.eclipse.recommenders.rcp.category.completion\:7\u0000org.eclipse.recommenders.completion.rcp.chain.category\:8\u0000org.eclipse.recommenders.subwords.rcp.category\:9\u0000org.eclipse.recommenders.completion.rcp.templates.category\:10\u0000
+content_assist_disabled_computers=org.eclipse.recommenders.completion.rcp.templates.category\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.subwords.rcp.category\u0000org.eclipse.recommenders.completion.rcp.chain.category\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Exercises.Person"><rhs name\="Exercises.Person"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/></lhs><lhs name\="day03.WrapperClasses"><rhs name\="day03.WrapperClasses"/></lhs><lhs name\="java.util.Queue"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="day03b.Person"><rhs name\="day03b.Student"/></lhs><lhs name\="Interview.Stack$Node"><rhs name\="Interview.Stack$Node"/></lhs><lhs name\="Interview.Stack"><rhs name\="Interview.Stack"/></lhs><lhs name\="Interview.Fibonacci"><rhs name\="Interview.Fibonacci"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="Interview.Subsets"><rhs name\="Interview.Subsets"/></lhs><lhs name\="day04.Student"><rhs name\="day04.BachelorStudent"/><rhs name\="day04.DiplomaStudent"/><rhs name\="day04.MasterStudent"/></lhs><lhs name\="day04.BachelorStudent"><rhs name\="day04.BachelorStudent"/></lhs><lhs name\="day04.MasterStudent"><rhs name\="day04.MasterStudent"/></lhs><lhs name\="day04.DiplomaStudent"><rhs name\="day04.DiplomaStudent"/></lhs><lhs name\="day04task3.Student"><rhs name\="day04task3.BachelorStudent"/><rhs name\="day04task3.MasterStudent"/></lhs><lhs name\="day04task3.BachelorStudent"><rhs name\="day04task3.BachelorStudent"/></lhs><lhs name\="day04task3.MasterStudent"><rhs name\="day04task3.MasterStudent"/></lhs></history>
+content_assist_number_of_computers=21
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

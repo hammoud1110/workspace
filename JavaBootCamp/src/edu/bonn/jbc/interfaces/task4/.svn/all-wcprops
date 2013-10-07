@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/Test.java
+END
+MasterStudent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/MasterStudent.java
+END
+BachelorStudent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/BachelorStudent.java
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/Student.java
+END
+StudentCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/StudentCopier.java
+END
+StudentPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/StudentPrinter.java
+END
+DiplomaStudent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/agm/javabootcamp/!svn/ver/24/Chapter13_Solutions/src/edu/bonn/jbc/interfaces/task4/DiplomaStudent.java
+END
